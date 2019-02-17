@@ -20,23 +20,23 @@ _The foremost peer-reviewed journal in graphics field, where leading researchers
 
 _A monthly journal that publishes research on subjects related to computer graphics and visualization techniques, systems, software, hardware, and user interface issues._
 
-* [**CG&A**: Computer Graphics and Applications]("https://www.computer.org/cga/"), IEEE.
+* [**CG&A**: Computer Graphics and Applications](https://www.computer.org/cga/), IEEE.
 
 _This journal bridges the theory and practice of computer graphics. From specific algorithms to full system implementations, it offers a unique combination of peer-reviewed feature articles and informal departments, including product announcements._
 
-* [**CGF**: Computer Graphics Forum]("http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659"), EG Association, Wiley.
+* [**CGF**: Computer Graphics Forum](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659), EG Association, Wiley.
 
 _The leading journal for in-depth technical articles on computer graphics featuring a lively mix of original research, computer graphics applications, conference reports, state-of-the-art surveys and workshops._
 
-* [**CG**: Computer & Graphics]("https://www.journals.elsevier.com/computers-and-graphics/"), Elsevier.
+* [**CG**: Computer & Graphics](https://www.journals.elsevier.com/computers-and-graphics/), Elsevier.
 
 _This journal focuses on interactive computer graphics, visualization and novel input modalities including virtual environments, and, within this scope, on graphical models, data structures, languages, picture manipulation algorithms and related software._
 
-* [**TVC**: The Visual Computer]("https://link.springer.com/journal/371"), Springer.
+* [**TVC**: The Visual Computer](https://link.springer.com/journal/371), Springer.
 
 _This journal publishes articles on all research fields of capturing, recognizing, modelling, analysing and generating shapes and images. It includes image understanding, machine learning for graphics and 3D fabrication._
 
-* [**GM**: Graphical Models]("https://www.journals.elsevier.com/graphical-models"), Elsevier.
+* [**GM**: Graphical Models](https://www.journals.elsevier.com/graphical-models), Elsevier.
 
 _This journal is focused on the creation, geometric processing, animation, and visualization of graphical models and on their applications in engineering, science, culture, and entertainment._
 
@@ -44,12 +44,12 @@ _This journal is focused on the creation, geometric processing, animation, and v
 
 _This journal has a diamond open access; peer reviewed and free to readers and authors. Its focus is short articles on computer graphics practice aiming to serve the community by disseminating proven and reliable techniques in all areas of computer graphics, including software, hardware, games, and interaction._
 
-* [**CAVW**: Computer Animation and Virtual Worlds]("http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1546-427X"), Wiley.
+* [**CAVW**: Computer Animation and Virtual Worlds](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1546-427X), Wiley.
 
 _This journal is considered as the first to address the global thematic of the Virtual Worlds consisting of 6 areas:
 computer animation, embodied agents, virtual environments, augmented reality, virtual life amd visualization._
 
-* [**JOCCH**: Journal on Computing and Cultural Heritage]("https://dl.acm.org/citation.cfm?id=J1157"), ACM.
+* [**JOCCH**: Journal on Computing and Cultural Heritage](https://dl.acm.org/citation.cfm?id=J1157), ACM.
 
 _This journal publishes papers of significant and lasting value in all areas relating to the use of ICT in support of Cultural Heritage._
 
