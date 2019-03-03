@@ -155,6 +155,7 @@ Virtual/Augmented Reality
 * **VR**:          Virtual Reality Conference
 * **ISMAR**:       International Symposium on Mixed and Augmented Reality
 * **VRST**:        Symposium on Virtual Reality Software and Technology
+* **CV4ARVR**:     Workshop on Computer Vision for AR/VR
 * **CW**:          Cyberworlds Conference
 * **Salento AVR**: Conference on Augmented & Virtual Reality
 * **LV**:          Laval Virtual - Exhibition on Virtual Reality & Augmented Reality
@@ -201,4 +202,4 @@ GPGPU
 
 * **IWOCL**: International Workshop on OpenCL
 
-_paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2019/02]**
+_paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2019/03]**
