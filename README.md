@@ -69,7 +69,7 @@ _This book presents real-world techniques for intermediate and advanced WebGL de
 
 _This book demonstrates the breadth and depth of OpenGL by presenting current and emerging techniques for the OpenGL family of APIs (OpenGL, OpenGL ES, and WebGL) related to performance, rendering, profiling, framework design, and more._
 
-* [**Ray Tracing Gems**](http://www.realtimerendering.com/raytracinggems/), Apress.
+* [**Ray Tracing Gems**](https://link.springer.com/book/10.1007/978-1-4842-4427-2), Springer.
 
 _A collection of ideas, tips, and best practices for real-time ray tracing applications, created by graphics experts._
 
