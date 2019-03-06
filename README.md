@@ -4,7 +4,7 @@ This document contains a comprehensive list of (currently active) annual interna
 It is to be used to guide each of us as we find our way to submit a '_computer graphics_' technical article or demonstration.
 Note that this is a living document; I hope to keep it periodically updated in order to ensure up-to-date information.
 Last but not least, if I’ve missed/misplaced anything, please do not hesitate to correct me via [email](andreas.alex.vasilakis@gmail.com)
-or [twitter]("https://twitter.com/abasilak").
+or [twitter](https://twitter.com/abasilak).
 
 Publishers
 ===============================================================================
