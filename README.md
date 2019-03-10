@@ -4,7 +4,7 @@ This document contains a comprehensive list of (currently active) annual interna
 It is to be used to guide each of us as we find our way to submit a '_computer graphics_' technical article or demonstration.
 Note that this is a living document; I hope to keep it periodically updated in order to ensure up-to-date information.
 Last but not least, if I’ve missed/misplaced anything, please do not hesitate to correct me via [email](andreas.alex.vasilakis@gmail.com)
-or [twitter](https://twitter.com/abasilak).
+or [twitter](https://twitter.com/abasilak). A comprehensive conference calendar that also includes upcoming deadlines can be found [here](https://confcal.vrvis.at/conferences/):
 
 Publishers
 ===============================================================================
@@ -73,7 +73,7 @@ _This book demonstrates the breadth and depth of OpenGL by presenting current an
 
 _A collection of ideas, tips, and best practices for real-time ray tracing applications, created by graphics experts._
 
-* [**Physically Based Rendering: From Theory to Implementation**](https://www.pbrt.org/),  Morgan Kaufmann.
+* [**Physically Based Rendering: From Theory to Implementation**](https://www.pbrt.org/), Morgan Kaufmann.
 
 _This book introduces the concepts and theory of photorealistic rendering hand in hand with the source code for a sophisticated renderer._
 
@@ -201,5 +201,7 @@ GPGPU
 -------------------------------------------------------------------------------
 
 * **IWOCL**: International Workshop on OpenCL
+
+-------------------------------------------------------------------------------
 
 _paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2019/03]**
