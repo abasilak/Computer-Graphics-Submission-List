@@ -109,6 +109,7 @@ Rendering
 * **HPG**: High Performance Graphics.
 * **SAP**: Symposium on Applied Perception.
 * **EXPRESSIVE**:  Joint Symposium on: Computational Aesthetics (**CAe**), Sketch-Based Interfaces and Modeling (**SBIM**) and Non-Photorealistic Animation and Rendering (**NPAR**).
+* **ΜΑΜ**: Eurographics Workshop on Material Appearance Modeling
 
 Geometry/CAD
 -------------------------------------------------------------------------------
@@ -147,7 +148,7 @@ Visualization
 * **PGV**:         Eurographics Symposium on Parallel Graphics and Visualization
 * **VC**:          International Symposium on Visual Computing
 * **VCBM**:        Eurographics Workshop on Visual Computing for Biology and Medicine
-* **ENVIRVIS*:	   Eurographics Workshop on Visualization in Environmental Sciences
+* **ENVIRVIS**:	   Eurographics Workshop on Visualization in Environmental Sciences
 
 Virtual/Augmented Reality
 -------------------------------------------------------------------------------
@@ -155,6 +156,7 @@ Virtual/Augmented Reality
 * **VR**:          Virtual Reality Conference
 * **ISMAR**:       International Symposium on Mixed and Augmented Reality
 * **VRST**:        Symposium on Virtual Reality Software and Technology
+* **EGVE**:        Eurographics Symposium on Virtual Environments
 * **CV4ARVR**:     Workshop on Computer Vision for AR/VR
 * **CW**:          Cyberworlds Conference
 * **Salento AVR**: Conference on Augmented & Virtual Reality
@@ -178,7 +180,7 @@ Mobile
 WEB
 -------------------------------------------------------------------------------
 
-* **Web3D**: International Conference on 3D Web Technology
+* **Web3D**:       International Conference on 3D Web Technology
 
 Cultural Heritage
 -------------------------------------------------------------------------------
@@ -190,18 +192,18 @@ Cultural Heritage
 Cinematography 
 -------------------------------------------------------------------------------
 
-* **WICED**: Workshop on Intelligent Cinematography and Editing
+* **WICED**:       Workshop on Intelligent Cinematography and Editing
 
 Urban Data 
 -------------------------------------------------------------------------------
 
-* **UDMV**: Eurographics Workshop on Urban Data Modelling and Visualisation
+* **UDMV**:        Eurographics Workshop on Urban Data Modelling and Visualisation
 
 GPGPU
 -------------------------------------------------------------------------------
 
-* **IWOCL**: International Workshop on OpenCL
+* **IWOCL**:       International Workshop on OpenCL
 
 -------------------------------------------------------------------------------
 
-_paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2019/03]**
+_paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2019/05]**
