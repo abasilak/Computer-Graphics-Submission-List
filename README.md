@@ -142,7 +142,8 @@ Vision
 Visualization
 -------------------------------------------------------------------------------
 
-* **InfoVis**:     Symposium on Information Visualization
+* **SciVis**:      IEEE Conference on Scientific Visualization
+* **InfoVis**:     IEEE Conference on Information Visualization
 * **EuroVis**:     EG/VGTC Conference on Visualization
 * **PacificVis**:  Pacific Visualization
 * **PGV**:         Eurographics Symposium on Parallel Graphics and Visualization
