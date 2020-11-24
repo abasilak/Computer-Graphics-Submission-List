@@ -93,7 +93,6 @@ General graphics field
 * **I3D**: Interactive 3D Graphics & Games.
 * **PG**: Pacific Conference on Computer Graphics & Applications.
 * **CGI**: Computer Graphics International.
-* **GI**: Graphics Interface.
 * **VMV**: Vision, Modeling and Visualization.
 * **STAG**:	Smart Tools and Applications in Graphics.
 * **GRAPP**: International Conference on Computer Graphics Theory & Applications.
@@ -118,9 +117,15 @@ Geometry/CAD
 * **GMP**: Geometric Modeling & Processing.
 * **SMI**: Shape Modeling International.
 * **SPM**: Symposium on Solid and Physical Modeling.
-* **CAD/GR**: Computer-Aided Design and Computer Graphics.
+* **CAD-GR**: Computer-Aided Design and Computer Graphics.
 * **SCG**: International Symposium on Computational Geometry.
 * **3DOR**: Eurographics Workshop on 3D Object Retrieval.
+* **SIAM-GD**: SIAM Conference on Geometric Design.
+
+Human-Computer Interaction
+-------------------------------------------------------------------------------
+* **CHI**: Computer-Human Interaction
+* **GI**: Graphics Interface.
 
 Animation
 -------------------------------------------------------------------------------
@@ -207,4 +212,4 @@ GPGPU
 
 -------------------------------------------------------------------------------
 
-_paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2019/05]**
+_paged mainted by [Andreas A. Vasilakis](https://abasilak.github.io/)._ **[2020/11]**
