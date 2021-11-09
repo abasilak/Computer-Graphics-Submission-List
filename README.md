@@ -179,6 +179,11 @@ Games
 * **JCSG**:        Joint Conference on Serious Games (GameDays and SGDA: International Conference on Serious Games Development and Applications)
 * **GFH**:         Games for Health, European Conference on Gaming and Playful Interaction in Health Care
 
+AI
+-------------------------------------------------------------------------------
+
+* **AIGraphics**: Eurographics Workshop on Intelligent Graphics
+
 Mobile
 -------------------------------------------------------------------------------
 
