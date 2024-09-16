@@ -166,6 +166,7 @@ Virtual/Augmented Reality
 * **EGVE**:        Eurographics Symposium on Virtual Environments
 * **CV4ARVR**:     Workshop on Computer Vision for AR/VR
 * **CW**:          Cyberworlds Conference
+* **EuroXR**:      European Network for Virtual Reality, Augmented Reality and Mixed Reality
 * **Salento AVR**: Conference on Augmented & Virtual Reality
 * **LV**:          Laval Virtual - Exhibition on Virtual Reality & Augmented Reality
 * **VRDC**         Virtual Reality Developers Conference
