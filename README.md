@@ -53,6 +53,10 @@ computer animation, embodied agents, virtual environments, augmented reality, vi
 
 _This journal publishes papers of significant and lasting value in all areas relating to the use of ICT in support of Cultural Heritage._
 
+* [**IJSG**: International Journal of Serious Games](https://journal.seriousgamessociety.org/index.php/IJSG/index), Serious Games Society.
+
+_The hournal publishes  scientific research articles addressing theoretical, experimental and operational aspects in the areas related to design, development, engineering, deployment and assessment of Serious Games, particularly for teaching and learning._
+
 Books
 -------------------------------------------------------------------------------
 
