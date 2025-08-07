@@ -111,6 +111,7 @@ Rendering
 
 * **EGSR**: Eurographics Symposium on Rendering.
 * **HPG**: High Performance Graphics.
+* **REAC**: Rendering Engine Architecture Conference.
 * **SAP**: Symposium on Applied Perception.
 * **EXPRESSIVE**:  Joint Symposium on: Computational Aesthetics (**CAe**), Sketch-Based Interfaces and Modeling (**SBIM**) and Non-Photorealistic Animation and Rendering (**NPAR**).
 * **ΜΑΜ**: Eurographics Workshop on Material Appearance Modeling
